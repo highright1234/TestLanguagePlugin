@@ -1,0 +1,10 @@
+name: LanguagePlugin
+version: @version@
+main: com.github.highright1234.security_check.LanguagePlugin
+api-version: 1.16
+commands:
+  test:
+    usage: 테스트임
+    description: 테스ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ트
+
+depend: [LocaleLib]
