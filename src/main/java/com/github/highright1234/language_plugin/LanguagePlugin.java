@@ -1,4 +1,4 @@
-package com.github.highright1234.security_check;
+package com.github.highright1234.language_plugin;
 
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;

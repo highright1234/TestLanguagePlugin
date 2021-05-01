@@ -1,6 +1,6 @@
 name: LanguagePlugin
 version: @version@
-main: com.github.highright1234.security_check.LanguagePlugin
+main: com.github.highright1234.language_plugin.LanguagePlugin
 api-version: 1.16
 commands:
   test:
